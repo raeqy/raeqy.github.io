@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raeqy.github.io/XaT/sitemap.XaT.gz
